@@ -26,7 +26,7 @@ My way
 
 - Perhaps you need to set up proxy for msys2 as for Linux.
 
-- `pacman -S make gcc diffutils`
+- `pacman -S pkgconfig make gcc diffutils`
 
 I needed to add -MD to CFlags and pass freetype.lib to CFlags in pkgconfig.
 
