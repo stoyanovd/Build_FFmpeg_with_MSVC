@@ -1,0 +1,19 @@
+# Seems, it is final version
+# And -MD is passed in some other place
+
+Name: freetype2
+Description: The freetype2 library
+Version: 1.0.0
+Cflags: freetype.lib
+
+
+
+################################################
+# old
+# Find it in C:\tools\msys64\usr\lib\pkgconfig
+
+# Name: freetype2
+# Description: The freetype2 library
+# Version: 1.0.0
+# Cflags: -MD
+# Libs: freetype.lib
