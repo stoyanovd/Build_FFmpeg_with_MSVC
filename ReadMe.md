@@ -8,6 +8,8 @@ My problems started when I want to add freetype as ffmpeg dependency.
 Freetype is easy built with MSVC, but there are some problems to correctly 
 import it in ffmpeg build.
 
+(Very interesting CMake custom installation, although with CygWin)  
+
 My way
 ------
 
