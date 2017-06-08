@@ -9,6 +9,8 @@ Freetype is easy built with MSVC, but there are some problems to correctly
 import it in ffmpeg build.
 
 (Very interesting CMake custom installation, although with CygWin)  
+[vcpkg](https://github.com/Microsoft/vcpkg/blob/master/ports/ffmpeg/portfile.cmake)
+
 
 My way
 ------
